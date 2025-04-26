@@ -8,6 +8,40 @@
 2. [기능 2](#기능-2)
 
 
+<details>
+  <summary>BackEnd Server</summary>
+
+  - Spring Boot 3.2.5
+  - JDK 17
+  - Gradle
+  - Spring Security
+  - JWT
+  - Spring Data JPA
+  - QueryDSL
+  - OAuth2 (Google, Kakao, Naver)
+  - Lombok
+  - iamport-rest-client (아임포트 결제 API)
+  - Java Mail
+  - commons-io
+  - RabbitMQ 3.12 Management (Docker)
+  - Swagger ( springdoc-openapi 2.6.0)
+</details>
+
+<details>
+  <summary>FrontEnd</summary>
+  - react 18.3.1
+  - react-cookie
+  - react-dom
+  - react-router-dom
+  - react-redux
+  - redux
+  - redux-persist
+  - styled-components
+  - http-proxy-middleware
+  - dayjs
+  - Axios
+  - react-daum-postcode (Kakao 우편번호 서비스 API)
+</details>
 
 
 
