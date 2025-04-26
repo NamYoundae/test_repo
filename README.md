@@ -29,6 +29,7 @@
 
 <details>
   <summary>FrontEnd</summary>
+  
   - react 18.3.1
   - react-cookie
   - react-dom
